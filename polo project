@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>volkswagen polo</title>
+</head>
+
+<body>
+    <img src="https://assets.volkswagen.com/is/image/volkswagenag/Volkswagen-Polo-3?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw=="
+        alt="volkswagen polo" /><br />
+    <div>
+        <section>
+            <h1>Volkswagen Polo</h1>
+            <p>
+                A journey of 12 successful years comes to an end. A legend stays
+                forever. The legacy gets passed on. <br />
+                Check out our other Volkswagen models.
+            </p>
+            <a href="https://www.volkswagen.co.in/app/site/pololove/" target="_blank">know more</a>
+        </section>
+    </div>
+    <br />
+    <hr />
+    <div>
+        <img src="https://assets.volkswagen.com/is/image/volkswagenag/volkswagen-virtus-may-2022?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTk2MCZoZWk9NTQwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjRhNzg="
+            alt="volkswagon virtus" width="650" />
+        <h1>New Virtus</h1>
+        <h2>Hello Goosebumps</h2>
+        <p>
+            Say #HelloGoosebumps with striking design, exhilarating performance and
+            German engineering on <br />
+            the all-new Volkswagen sedan.
+            <a href="https://www.volkswagen.co.in/en/models/new-virtus.html" target="_blank">know more</a>
+        </p>
+    </div>
+    <br />
+    <div>
+        <img src="https://assets.volkswagen.com/is/image/volkswagenag/Taigun-Launch-Front?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTk2MCZoZWk9NTQwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjRhNzg="
+            alt="volkswagen taigun" width="650" />
+        <h1>New Taigun</h1>
+        <h2>Hustle Mode On</h2>
+        Turn your #HustleModeOn with a Bold, Dynamic and German-engineered SUVW.
+        Engineered for <br />
+        those who hustle nonstop. Who steer clear of comfort zones, chase their
+        dreams fiercely, and <br />
+        change the world one day at a time. This is for those who never stop.
+        <a href="https://www.volkswagen.co.in/en/models/taigun.html" target="_blank">know more</a>
+    </div>
+</body>
+    
+</html>
